@@ -1,0 +1,16 @@
+{
+  "name": "@knitkode/vendor",
+  "version": "1.0.0",
+  "description": "Collects the customized vendors, e.g. custom builds of modular libraries.",
+  "author": {
+    "name": "KnitKode",
+    "email": "dev@knitkode.com",
+    "url": "https://knitkode.com/"
+  },
+  "repository": {
+    "url": "https://github.com/knitkode/vendor"
+  },
+  "engines": {
+    "node": ">=4"
+  }
+}
