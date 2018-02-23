@@ -1,6 +1,6 @@
 {
   "name": "@knitkode/vendor",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "Collects the customized vendors, e.g. custom builds of modular libraries.",
   "author": {
     "name": "KnitKode",
